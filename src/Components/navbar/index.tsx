@@ -7,7 +7,7 @@ export const Navbar = () => {
         <a className="navbar-brand fs-5" href="#">
           Bruno R.N
         </a>
-        <div className="navbar-nav">
+        <div className="navbar-nav mt-2">
           <a
             className="navbar-link link-light text-decoration-none mb-2"
             href="#"
